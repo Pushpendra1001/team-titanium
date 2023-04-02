@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Road Under Construction From 6 months",
+        "description": "I am Priya from Bajaj Nagar and I travel to office every day by bus. The road near her house is under construction for the past six months and there is no sign of completion. The construction work has caused traffic jams, dust pollution and noise disturbance. I spend more time and money on commuting and she often reaches late to her office. She wants to know why the road construction is paused and when it will resume.",
+        "queryLink": "/",
+        "upvote": 17,
+        "downvote": 4,
+        "suggestions": 23,
+        "catagory": "Center"
+    },
+    {
+        "id": 2,
+        "title": "Jhalana kachi Basti Slum Area",
+        "description": "Rajesh lives in a slum area where garbage is dumped on the streets and open drains are overflowing with sewage. He and his family often suffer from diseases like diarrhea, typhoid and malaria due to the unhygienic conditions. He wants to complain to the municipal authorities but he does not know how to do it. He also feels hopeless because he thinks that no one cares about his problems.",
+        "queryLink": "/",
+        "upvote": 27,
+        "downvote": 6,
+        "suggestions": 21,
+        "catagory": "Center"
+    },
+    {
+        "id": 3,
+        "title": "Outdated Syllabus in Colleges",
+        "description": "The fine for riding without a helmet in Rajasthan can vary depending on the type of vehicle and the severity of the offense. As of my knowledge cutoff date of 2021, the fine for riding without a helmet in Rajasthan could range from Rs. 100 to Rs. 1,000. It's important to note that fines and penalties are subject to change, so it's always best to check the latest information from official sources.",
+        "queryLink": "/",
+        "upvote": 69,
+        "downvote": 7,
+        "suggestions": 34,
+        "catagory": "State"
+    },
+    {
+        "id": 4,
+        "title": "Robbery in our Area",
+        "description": "Robbery in our area is a serious issue that needs to be addressed. Many people have complained about being robbed or threatened by robbers in the streets, shops, homes, or workplaces. Some of the complaints include losing money, Bike, valuables documents, or personal belongings; being injured or traumatized; feeling unsafe or insecure; and having to deal with legal or insurance matters. The complaints also indicate that the robbers are often armed, violent, or organized. The police and the local authorities have been notified of these complaints and have promised to take action to prevent and reduce robbery in our area but for  now there is no fruitful results...",
+        "queryLink": "/",
+        "upvote": 18,
+        "downvote": 11,
+        "suggestions": 11,
+        "catagory": "State"
+    },
+    {
+        "id": 5,
+        "title": "Sanitation problem",
+        "description": "I want to talk to you about a very important issue that affects our health, dignity, and well-being. It is the sanitation problem. Sanitation problem means not having access to hygienic toilets. Hygienic toilets mean having toilets that are clean, safe, private, and separate for boys and girls. Hygienic toilets also mean having access to clean water, handwashing facilities, and waste management Many people in our area do not have hygienic toilets. They have to defecate in fields, forests, bodies of water, or other public spaces. This is very bad for our health and environment. It can cause diseases , infections , environmental pollution , etc. It can also affect our dignity , education , and development. We need to solve this problem urgently. We need to demand that the government provide us with adequate infrastructure , services , and awareness to ensure that everyone has access to hygienic toilets , and practices good hygiene behaviors . We also need to take responsibility for keeping our toilets clean and using them properly. Sanitation is a basic human right . It is also essential for our health and happiness . Let us work together to end the sanitation problem in our area . Thank you for your attention .",
+        "queryLink": "/",
+        "upvote": 78,
+        "downvote": 6,
+        "suggestions": 9,
+        "catagory": "State"
+    },
+    {
+        "id": 6,
+        "title": "Improving Unemployment in Our City",
+        "description": "Unemployment is a serious problem that affects many people in urban areas. It means that people who are willing and able to work cannot find a suitable job. Unemployment can have various causes, such as lack of skills, education, training, or opportunities; economic slowdown; competition; automation; etc. Unemployment can have negative consequences for individuals and society, such as loss of income, poverty, crime, depression, social unrest, etc. Therefore, it is important to create more employment opportunities and provide support and assistance to the unemployed people in cities",
+        "queryLink": "/",
+        "upvote": 112,
+        "downvote": 12,
+        "suggestions": 53,
+        "catagory": "State"
+    },
+    {
+        "id": 7,
+        "title": "Poor Food Quality in Trains",
+        "description": "Many people who travel by metro bus rely on the food that is served on board or at the stations. However, the quality of the food is very poor and unsatisfactory. The food is often stale, unhygienic, tasteless, or overpriced. This can cause health problems, dissatisfaction, and frustration among the passengers. The metro bus authorities should take steps to improve the food quality and variety, and ensure that it meets the standards of safety and hygiene. They should also provide affordable and nutritious options for different dietary preferences and needs. This would enhance the comfort and convenience of the metro bus travelers and make their journey more enjoyable.",
+        "queryLink": "/",
+        "upvote": 41,
+        "downvote": 8,
+        "suggestions": 33,
+        "catagory": "District"
+    },
+    {
+        "id": 8,
+        "title": "Traffic Problem on Sindhi Camp",
+        "description": "Sindhi Camp is the inter-state bus terminal of Jaipur city in India. It is located along Station Road in Jaipur. By this there are traffic probelm created and very hard to travel",
+        "queryLink": "/",
+        "upvote": 22,
+        "downvote": 4,
+        "suggestions": 23,
+        "catagory": "District"
+    }
+]

@@ -1,0 +1,47 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "server": "cross-env START_FRONTEND=false nodemon",
+    "build": "next build",
+    "start": "cross-env NODE_ENV=production node dist"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.11",
+    "@heroicons/react": "^2.0.16",
+    "@reduxjs/toolkit": "^1.9.2",
+    "@socket.io/redis-adapter": "^8.1.0",
+    "@tinymce/tinymce-react": "^4.3.0",
+    "@types/express": "^4.17.17",
+    "chatgpt": "^5.1.2",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "express": "^4.18.2",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-html-comment": "^2.0.16",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "react-speech-recognition": "^3.10.0",
+    "redis": "^4.6.4",
+    "redux-thunk": "^2.4.2",
+    "sass": "^1.59.3",
+    "socket.io": "^4.6.0",
+    "socket.io-client": "^4.6.0",
+    "swiper": "^9.1.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "@types/react": "^18.0.23",
+    "@types/react-dom": "^18.0.7",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.36.0",
+    "nodemon": "^2.0.20",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}

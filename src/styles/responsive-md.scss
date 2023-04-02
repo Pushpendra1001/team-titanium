@@ -1,0 +1,41 @@
+@media (min-width: 768px) {
+    .bottom-link {
+        @apply px-3 py-2 rounded-md;
+
+        img {
+            @apply grayscale opacity-70 duration-150;
+        }
+
+        p {
+            @apply text-gray-500 duration-150;
+        }
+
+        &:hover {
+            img {
+                @apply grayscale-0 opacity-100;
+            }
+
+            p {
+                @apply text-brand-ember-l-3;
+            }
+        }
+
+        &.active {
+            @apply bg-gray-100;
+
+            img {
+                @apply grayscale-0 opacity-100;
+            }
+
+            p {
+                @apply text-brand-ember-l-3;
+            }
+        }
+    }
+    .swiper-slide {
+        background-position: center !important;
+        background-size: cover !important;
+        width: 300px !important;
+        // height: 300px !important;
+    }
+}

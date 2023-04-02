@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bottom-link {
+    img {
+        @apply grayscale opacity-70 duration-150;
+    }
+
+    p {
+        @apply text-gray-500 duration-150;
+    }
+
+    &:hover {
+        img {
+            @apply grayscale-0 opacity-100;
+        }
+
+        p {
+            @apply text-brand-ember-l-3;
+        }
+    }
+
+    &.active {
+        img {
+            @apply grayscale-0 opacity-100;
+        }
+
+        p {
+            @apply text-brand-ember-l-3;
+        }
+    }
+}
+
+.primary-r-l3-btn {
+    @apply bg-brand-ember-l-3 text-white hover:bg-brand-ember-l-4 rounded-full text-sm px-3 py-1 leading-5;
+}
+
+.primary-r-g-btn {
+    @apply text-gray-700 hover:bg-gray-200 bg-gray-100 rounded-full text-sm px-3 py-1 leading-5;
+}
+
+// this area is for swiper 
+.swiper {
+    width: 100% !important;
+}
+
+.swiper-slide {
+    background-position: center !important;
+    background-size: cover !important;
+    width: 200px !important;
+    // height: 300px !important;
+}
+
+.swiper-pagination {
+    position: relative !important;
+    top: 3px !important
+}
+
+.swiper-pagination-bullet {
+    background-color: #082E31 !important;
+    opacity: 1 !important;
+}
+.swiper-pagination-bullet-active {
+    background-color: #3AF1C3 !important;
+}
+
+// end here 
+@import 'responsive-md.scss';
+@import 'responsive-lg.scss';
