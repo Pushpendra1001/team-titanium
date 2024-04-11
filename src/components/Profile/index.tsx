@@ -34,9 +34,9 @@ export default function () {
           <div className='flex gap-4'>
             <div className='w-16 overflow-hidden h-16 border-2 border-white rounded-full'><img src="https://s3-alpha-sig.figma.com/img/b8a1/4fee/ddf3d93f03ed4e6c492091614740a2b8?Expires=1679875200&Signature=Zit2xKxgmEhQMxqPo2rmAhDQ9Sr26c04DbkYWBvvYcYVNhPZdfg2MDvzgygOhHznL1W95KW88Ie1aLBM2jAXwZXYGEDHKJ9WNk-D4jOmh0V~~NleMR8j2HhJMlF61edgeKIQ3gVhU9K~A9n4y-wPSmI20LPaH5dEEETIqyDjbvmZby04ywsJYSUvLLPyk30ft8WM~XIb5FTWVoJSevkSEKCoUkHv0WoQCjq3xWKVBapHR-t9rfXKHnYETZ3SSfD2oiFrdJe3K1uGKf-8cyGWd6q55khpw0et437ZccOObaEtoG4mqckFFHGcRBw7OrUxfAesP-MW9A7LWqyzcEMvWw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" alt="" className='w-full h-full object-cover'/></div>
             <div>
-                <small className='text-xs text-brand-ember-l-1 block'>+91 7976472702</small>
-                <small className='text-xs text-brand-ember-l-1 block'>krishansoni000005@gmail.com</small>
-                <p className='text-white text-2xl'>Krishna Soni</p>
+                <small className='text-xs text-brand-ember-l-1 block'>+9000000000</small>
+                <small className='text-xs text-brand-ember-l-1 block'>Example@gmail.com</small>
+                <p className='text-white text-2xl'>User Name</p>
             </div>
           </div>
           <RiEdit2Fill className="text-3xl text-white" />
@@ -60,7 +60,7 @@ export default function () {
         </div> */}
         <div className="relative rounded-t-3xl left-0 w-full min-h-[100vh] bg-white  pt-8 pb-[70px]">
           <div className='w-full md:max-w-[750px] lg:max-w-[1000px] mx-auto px-6'>
-            <h2 className='text-lg text-brand-ember-l-3 mb-3'>Namaste Krishna</h2>
+            <h2 className='text-lg text-brand-ember-l-3 mb-3'>Namaste User</h2>
             <div>
                 <div className="flex gap-2 items-center border border-gray-100 rounded-lg p-2 mb-4">
                     <div className='bg-gray-200 text-xl rounded-md text-gray-600 p-2 flex items-center justify-center'><BiUser /></div>
